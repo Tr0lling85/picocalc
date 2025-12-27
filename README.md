@@ -4,6 +4,8 @@ HOW TO USE :
 
 - up/down arrow to choose file
 - right arrow to go to the next page
+- to get back to first page of the list, go to the end and press right arrow. 
+  (will fix this)
 - enter to execute ( run file ) / change dir
 - 'd' to view directories
 - DEL button to remove files
