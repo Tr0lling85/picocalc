@@ -24,4 +24,4 @@ How to use:
 Move files doesn't work properly - will try to fix
 ( does anybody know how to do it? )
 
-https://github.com/Tr0lling85/picocalc/blob/main/File%20Explorer%202/img1.png?raw=true
+![](File%20Explorer%202/img1.png)
