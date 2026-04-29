@@ -24,4 +24,4 @@ How to use:
 Move files doesn't work properly - will try to fix
 ( does anybody know how to do it? )
 
-![](File%20Explorer%202/img1.png)
+<img src="https://github.com/Tr0lling85/picocalc/edit/main/FileExplorer2/img1.png">
